@@ -14,19 +14,26 @@
 o intuito é usar o método cliente/servidor para que um servidor , M1, tente "conversar" por meio de sinais a um "cliente", M2. Logo após a mensagem da 
 M1 ser correspondida e respondida , a conexão entre as duas é feita e pode-se , então, trocar informações.
 
-**7.2**: Os dados são trasnmitidos via Internet Protocols ,IP's, que fazem com que seja possível saber onde e quem é  máquina que se deseja compartilhar dados 
+**7.2**: 
+
+Os dados são trasnmitidos via Internet Protocols ,IP's, que fazem com que seja possível saber onde e quem é  máquina que se deseja compartilhar dados 
 
 **7.3**:
-1- Reduz drásticamente a probabilidade de vasão de dados sigilosos
+
+1- Reduz a probabilidade de vasão de dados sigilosos
+
 2- Manuseio e atualização do script envolvendo menos logística
+
 3- Maior viabilidade de controle
 
 **7.4**:
 
 --- APLICAÇÕES REAIS DESSA TÉCNICA ---
+
 1- SITES WEB
 
 2- JOGOS ONLINE (PRINCIPALEMNTE FPS ,QUE PRECISAM DE PROCESSAMENTO CONTÍNUO)
+
 3- SERVIÇO DE CALENDÁRIO 
 
 4- SERVIÇO DE STREAMING
@@ -109,7 +116,7 @@ start_server()
 
 ```
 
-**Cliente
+**Cliente**
 ```
 # client.py
 import socket
