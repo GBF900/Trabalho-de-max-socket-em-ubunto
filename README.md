@@ -22,11 +22,15 @@ M1 ser correspondida e respondida , a conexão entre as duas é feita e pode-se 
 3- Maior viabilidade de controle
 
 **7.4**:
+
 --- APLICAÇÕES REAIS DESSA TÉCNICA ---
 1- SITES WEB
+
 2- JOGOS ONLINE (PRINCIPALEMNTE FPS ,QUE PRECISAM DE PROCESSAMENTO CONTÍNUO)
 3- SERVIÇO DE CALENDÁRIO 
+
 4- SERVIÇO DE STREAMING
+
 5- SISTEMAS DE CÓPIA E SEGURANÇA DE DESASTRES
 
 -- MELHORIAS --
