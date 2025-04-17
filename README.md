@@ -8,7 +8,7 @@
 
 # **OBJETIVO**: COMPREENDER COMO SÃO TRATADOS OS DADOS ENVIADOS E RECEBIDOS POR SOCKET CLIENTE/SERVIDOR
 
-                           #            ATIVIDADE 7             
+#                                  ATIVIDADE 7             
 
 **7.1**: Os sockets são estruturas de comunicação por Internet Protocols, IP's, que possibilitam a troca de dados entre programas em uma mesma rede.
 o intuito é usar o método cliente/servidor para que um servidor , M1, tente "conversar" por meio de sinais a um "cliente", M2. Logo após a mensagem da 
