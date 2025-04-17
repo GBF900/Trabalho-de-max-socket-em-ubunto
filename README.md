@@ -44,10 +44,15 @@ Os dados são trasnmitidos via Internet Protocols ,IP's, que fazem com que seja 
 
 **Separar responsabilidades:** Dividir as tarefas entre o cliente e o servidor facilita a manutenção e o desenvolvimento modular.   
 **Balancear a carga**: Distribuir as solicitações entre vários servidores. 
+
 **Utilizar caching:** Reduzir a carga do servidor. 
+
 **Utilizar a nuvem:** Serviços como AWS e Azure podem escalar automaticamente.  
+
 **Implementar redundância:** Proteger os dados contra falhas. 
+
 **Controlar o acesso:** Gerenciar o acesso a recursos específicos para diferentes usuários ou grupos de usuários. 
+
 **Aplicar políticas de segurança:** Armazenar e gerenciar informações sensíveis no servidor, onde é possível aplicar criptografia e autenticação de acesso
 
 # ATIVIDADES EXTRAS 
